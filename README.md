@@ -1,7 +1,7 @@
 # MobCalc
 Calculator for Mobile project<br>
 Every next Task is updated version of the last<br>
-Task 3 contains Task 2 which contains Task 1, etc
+Task 4 contains Task 3 which contains Task 2, etc
 
 <details>
 <summary>Task 2 Basic calculator UI (lib)</summary>
