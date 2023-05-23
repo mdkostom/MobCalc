@@ -1,5 +1,9 @@
 # MobCalc
 Calculator for Mobile project<br>
+Made in Android Studio - Flutter<br>
+Android language - Kotlin<br>
+iOS language - Swift<br>
+Platforms - Android, iOS
 Every next Task is updated version of the last<br>
 Task 4 contains Task 3 which contains Task 2, etc
 
@@ -28,8 +32,8 @@ Contains 3 dart files:<br>
 <details>
 <summary>Task 4 Kilometer to Mile converter in your calculator (lib)</summary>
 <br>
-Contains 5 dart files:<br>
-  0) converter_sceen.dart (new) - switches to new screen. Converts kilometers to miles and back.
+Contains previous 4 dart files + 1 new for kilo to miles and back:<br>
+  5) converter_sceen.dart (new) - switches to new screen. Converts kilometers to miles and back.
 </details>
 <details>
 <summary>Task 5 Add history and persistence to your app (lib)</summary>
