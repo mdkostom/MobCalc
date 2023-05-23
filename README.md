@@ -4,7 +4,7 @@ Calculator for Mobile project
 <details>
 <summary>Task 2 Basic calculator UI (lib)</summary>
 <br>
-Contains three dart files:<br>
+Contains 3 dart files:<br>
   1) main.dart - Responsible for starting the app<br>
   2) calculator_app.dart - Defines the MyApp class<br>
   3) calculator.dart - Contains the Calculator widget<br>
@@ -12,7 +12,16 @@ Contains three dart files:<br>
 <details>
 <summary>Task 3 Basic calculator logic (lib)</summary>
 <br>
-Placeholder
+  Contains 4 dart files:<br>
+  1) main.dart - Responsible for starting the app<br>
+  2) calculator_app.dart - Defines the MyApp class<br>
+  3) calculator.dart -> calculator_screen.dart - Responsible for the UI and user input. Communicates with the CalculatorController to handle the calculator logic<br>
+  4) calculator_controller.dart - Logic for handling numbers, operators, and calculating results<br>
+  x) Requers rxdart: 0.27.1 in pubspec.yaml dependencies under flutter:<br>
+  dependencies:<br>
+  flutter:<br>
+    sdk: flutter<br>
+  rxdart: 0.27.1<br>
 </details>
 <details>
 <summary>Task 4 Kilometer to Mile converter in your calculator (lib)</summary>
