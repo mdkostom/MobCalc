@@ -28,7 +28,8 @@ Contains 3 dart files:<br>
 <details>
 <summary>Task 4 Kilometer to Mile converter in your calculator (lib)</summary>
 <br>
-Placeholder
+Contains 5 dart files:<br>
+  0) converter_sceen.dart (new) - switches to new screen. Converts kilometers to miles and back.
 </details>
 <details>
 <summary>Task 5 Add history and persistence to your app (lib)</summary>
