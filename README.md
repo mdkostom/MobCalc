@@ -15,6 +15,7 @@ Contains 3 dart files:<br>
   1) main.dart - Responsible for starting the app<br>
   2) calculator_app.dart - Defines the MyApp class<br>
   3) calculator.dart - Contains the Calculator widget<br>
+  x) Refer to "Task 2 Calculator preview.jpg" for preview
 </details>
 <details>
 <summary>Task 3 Basic calculator logic (lib)</summary>
@@ -35,6 +36,7 @@ Contains 3 dart files:<br>
 <br>
 Contains previous 4 dart files + 1 new for kilo to miles and back:<br>
   5) converter_sceen.dart (new) - switches to new screen. Converts kilometers to miles and back.
+  x) Refer to "Task 4 Kilo to Miles preview.jpg" for preview
 </details>
 <details>
 <summary>Task 5 Add history and persistence to your app (lib)</summary>
