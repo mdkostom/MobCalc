@@ -3,8 +3,8 @@ Calculator for Mobile project<br>
 Made in Android Studio - Flutter<br>
 Android language - Kotlin<br>
 iOS language - Swift<br>
-Requires "rxdart: 0.27.1" in pubspec.yaml Dependencies<br>
 Platforms - Android, iOS<br>
+Requires "rxdart: 0.27.1" in pubspec.yaml Dependencies<br>
 Every next Task is updated version of the last<br>
 Task 4 contains Task 3 which contains Task 2, etc<br>
 
