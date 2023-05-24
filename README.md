@@ -3,6 +3,7 @@ Calculator for Mobile project<br>
 Made in Android Studio - Flutter<br>
 Android language - Kotlin<br>
 iOS language - Swift<br>
+Requires "rxdart: 0.27.1" in pubspec.yaml Dependencies
 Platforms - Android, iOS
 Every next Task is updated version of the last<br>
 Task 4 contains Task 3 which contains Task 2, etc
@@ -23,7 +24,7 @@ Contains 3 dart files:<br>
   2) calculator_app.dart - Defines the MyApp class<br>
   3) calculator.dart -> calculator_screen.dart - Responsible for the UI and user input. Communicates with the CalculatorController to handle the calculator logic<br>
   4) calculator_controller.dart - Logic for handling numbers, operators, and calculating results<br>
-  x) Requers rxdart: 0.27.1 in pubspec.yaml dependencies under flutter:<br>
+  x) Requires rxdart: 0.27.1 in pubspec.yaml dependencies under flutter:<br>
   dependencies:<br>
   flutter:<br>
     sdk: flutter<br>
